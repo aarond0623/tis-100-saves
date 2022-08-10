@@ -1,0 +1,41 @@
+@0
+
+
+@1
+MOV 0 DOWN
+MOV DOWN ACC
+JRO 0
+
+@2
+
+
+@3
+
+
+@4
+MOV 4 RIGHT
+MOV RIGHT ACC
+JRO 0
+
+@5
+MOV 1 LEFT
+MOV LEFT ACC
+JRO 0
+
+@6
+
+
+@7
+
+
+@8
+MOV 2 UP
+MOV UP ACC
+JRO 0
+
+@9
+
+
+@10
+MOV 1 ACC
+MOV ACC DOWN
